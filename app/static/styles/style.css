@@ -1,0 +1,154 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+
+/* Fonts */
+.h1-invert-extension, .h2-invert-extension, .h3-invert-extension, .p-invert-extension, .a-invert-extension {
+  font-family: 'Raleway', sans-serif !important;
+  color: #fff;
+}
+
+.p-invert-extension {font-size: 0.8rem;}
+.h1-invert-extension {font-size: 1.4rem;}
+.h2-invert-extension {font-size: 1.2rem;}
+.h3-invert-extension {font-size: 1rem;}
+.a-invert-extension {
+  text-decoration: none;
+  color: #fff;
+}
+
+.a-invert-extension:hover {
+  cursor:pointer;
+}
+
+
+/* Elements */
+.main-extension-body {
+  background-color:#161616;
+  width:340px;
+  height:600px;
+  overflow:none;
+  margin:0px;
+}
+
+.inversion-top-bar {
+  background-color:#1d1d1d;
+  height: 40px;
+  overflow:hidden;
+  margin:0px;
+  padding-left:0px;
+  padding-right:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  width:100%;
+  text-align:center;
+}
+
+.inversion-inner-body {
+height:435px
+}
+
+.master-button {
+  background-color: #212121;
+  width: 120px;
+  font-size: 14px;
+  border: 4px solid #57ffae;
+  border-radius: 25px;
+  padding: 3px 10px 3px 10px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  -o-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
+}
+
+
+.master-button:hover {
+  background-color: #515151;
+  border: 4px solid #EC5050
+}
+
+.inversion-footer-logos {
+padding:10px;
+width:20px;
+height:auto;
+display:inline-block;
+vertical-align:middle;
+overflow:hidden;
+}
+
+.inversion-footer{
+
+  background-color:#1d1d1d;
+  height: 30px;
+  /*overflow:hidden;*/
+  margin:0px;
+  margin-top:33px;
+  padding-left:0px;
+  padding-right:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  width:100%;
+  text-align:center;
+}
+
+
+
+/* General */
+.p-20 {
+  padding: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.p-40 {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  padding:10px 0px 10px 0px;
+}
+
+.padding-top {
+  padding-top:70px;
+}
+.margin-top {
+  margin-top:50px;
+}
+.align-center {
+  width: 100%;
+  text-align: center;
+}
+.display-block {
+  display: block;
+}
+
+.spacing-60 {
+  padding-bottom: 60px
+}
+
+.inversion-margin-boost {
+margin-top:20px;
+}
+
+.inversion-height-200 {
+  height: 200px
+}
+
+.inversion-height-160 {
+  height: 140px;
+}
+
+.main-message {
+  position: relative;
+  top:170px;
+}
+
+.center-vertically {
+margin-top:30px;
+
+}
