@@ -12,7 +12,7 @@ This is a simple chrome extension that, when enabled it will place the opposite 
 6. Open the extension and click enable
 
 ## How to tell whether it has worked
-The easiest way to tell whether the inversion worked is to pay attention at the buy and sell button as you click "Enable". There will be a very slight horizontal shift.
+The easiest way to tell whether the inversion worked is to pay attention at the buy and sell buttons as you click "Enable". There will be a very slight horizontal shift.
 
 You can also use the inspect tool in order to highlight the div containing the button and form above it. If the buy form has the "sell-form" id or the other way around you know that it worked.
 
