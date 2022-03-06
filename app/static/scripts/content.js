@@ -21,9 +21,9 @@ chrome.runtime.onMessage.addListener(function(message) {
       buy_form.style = "position:relative; left:53%"
       sell_form.style = "position:relative; right:53%"
     }
+    
     // Any other page
     else {
-
     // select the relevant elements
     buy_button = document.querySelector("#orderformBuyBtn")
     sell_button = document.querySelector("#orderformSellBtn")
